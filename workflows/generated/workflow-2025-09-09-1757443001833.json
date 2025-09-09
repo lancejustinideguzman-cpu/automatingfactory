@@ -1,0 +1,16 @@
+JSON.stringify({
+  workflow: JSON.parse(Certainly! Please provide a workflow description so I can generate a complete, production-ready structured JSON workflow definition based on your requirements.
+
+**Example:**  
+Workflow Description: "When a new row is added to a Google Sheets spreadsheet, send a Slack message to a specific channel containing the row's data."
+
+Once you supply the [Workflow Description], I'll return a full, executable workflow JSON following all best practices!),
+  validation: [object Object],
+  testResults: [object Object],
+  analysis: [object Object],
+  metadata: {
+    generatedAt: new Date().toISOString(),
+    platform: "AI Workflow Factory",
+    version: "1.0.0"
+  }
+}, null, 2)
